@@ -1,2 +1,2 @@
 # aws_pr
-Crear una EC2 de aws desde un script en bash
+Create a AWS EC2 with a script in the AWS CLI
